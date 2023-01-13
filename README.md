@@ -18,10 +18,10 @@
 
 <img src="https://fakeimg.pl/80x30/ffffff,0/86d3ff,255/?text=Projects&font=museo&font_size=20">
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SwervyK&repo=Productivity&theme=aura&hide_border=true" height=150>](https://github.com/SwervyK/Productivity)[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SwervyK&repo=Sheet-Scraper&theme=aura&hide_border=true" height=150>](https://github.com/SwervyK/Sheet-Scraper)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=SwervyK&repo=Productivity&theme=aura&hide_border=true" height=150>](https://github.com/SwervyK/Productivity)[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=SwervyK&repo=Sheet-Scraper&theme=aura&hide_border=true" height=150>](https://github.com/SwervyK/Sheet-Scraper)
 
 <img src="https://fakeimg.pl/45x30/ffffff,0/86d3ff,255/?text=Stats&font=museo&font_size=20">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=SwervyK&theme=aura&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width=500>](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api?username=SwervyK&theme=aura&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width=500>](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwervyK&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width=500>](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api/top-langs/?username=SwervyK&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width=500>](https://github.com/anuraghazra/github-readme-stats)
