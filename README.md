@@ -28,4 +28,4 @@
 
 [<img src="https://github-readme-stats-swervyk.vercel.app/api?username=aidankeighron&theme=aura&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width=500>](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src="https://github-readme-stats-swervyk.vercel.app/api/top-langs/?username=aidankeighron&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact&exclude_repo=github-readme-stats&langs_count=8" width=500>](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api/top-langs/?username=aidankeighron&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&exclude_repo=asana-notes-app" width=500>](https://github.com/anuraghazra/github-readme-stats)
