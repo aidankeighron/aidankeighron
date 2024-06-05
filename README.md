@@ -22,9 +22,9 @@
 
 <img src="https://fakeimg.pl/80x30/ffffff,0/86d3ff,255/?text=Projects&font=museo&font_size=20">
 
-[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=Productivity&theme=aura&hide_border=true" width=500>](https://github.com/aidankeighron/Productivity)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=productivity&theme=aura&hide_border=true" width=500>](https://github.com/aidankeighron/productivity)
 
-[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=Sheet-Scraper&theme=aura&hide_border=true" width=500>](https://github.com/aidankeighron/Sheet-Scraper)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=sheet-scraper&theme=aura&hide_border=true" width=500>](https://github.com/aidankeighron/sheet-scraper)
 
 <img src="https://fakeimg.pl/45x30/ffffff,0/86d3ff,255/?text=Stats&font=museo&font_size=20">
 
