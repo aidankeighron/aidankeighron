@@ -1,12 +1,9 @@
 ![Header](./github-header-image.png)
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=e287fc&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=86D3FF&vCenter=true&width=435&lines=Always+learning+new+things;%2B4+years+of+development+experiance;Passion+for+robotics+and+software+development;2+years+of+industry+experience" alt="Typing SVG" /></a>
+<!-- https://readme-typing-svg.demolab.com/demo/?duration=2000&pause=2000&color=86D3FF&vCenter=true&lines=Always+learning+new+things;%2B4+years+of+development+experiance;Passion+for+robotics+and+software+development;2+years+of+industry+experience !-->
 <img src="https://fakeimg.pl/130x30/ffffff,0/86d3ff,255/?text=Personal%20Site&font=museo&font_size=20">
 
-[<img src="https://img.shields.io/badge/Simply%20Complicated-e287fc?style=for-the-badge&logo=windows%20terminal&logoColor=white">](https://aidankeighron.github.io/)
+[<img src="https://img.shields.io/badge/Simply%20Complicated-e287fc?style=for-the-badge&logo=windows%20terminal&logoColor=white">](https://aidankeighron.dev/)
 
 <img src="https://fakeimg.pl/110x30/ffffff,0/86d3ff,255/?text=Languages&font=museo&font_size=20">
 
@@ -22,12 +19,12 @@
 
 <img src="https://fakeimg.pl/80x30/ffffff,0/86d3ff,255/?text=Projects&font=museo&font_size=20">
 
-[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=productivity&theme=aura&hide_border=true" width=500>](https://github.com/aidankeighron/productivity)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=productivity&theme=dark&hide_border=true" width=500>](https://github.com/aidankeighron/productivity)
 
-[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=sheet-scraper&theme=aura&hide_border=true" width=500>](https://github.com/aidankeighron/sheet-scraper)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=sheet-scraper&theme=dark&hide_border=true" width=500>](https://github.com/aidankeighron/sheet-scraper)
 
 <img src="https://fakeimg.pl/45x30/ffffff,0/86d3ff,255/?text=Stats&font=museo&font_size=20">
 
-[<img src="https://github-readme-stats-swervyk.vercel.app/api?username=aidankeighron&theme=aura&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width=500>](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api?username=aidankeighron&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width=500>](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src="https://github-readme-stats-swervyk.vercel.app/api/top-langs/?username=aidankeighron&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&exclude_repo=asana-notes-app,Pwnage2022,NewSwerve,PwnageVision,OffseasonSwerve" width=500>](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats-swervyk.vercel.app/api/top-langs/?username=aidankeighron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&exclude_repo=asana-notes-app,Pwnage2022,NewSwerve,PwnageVision,OffseasonSwerve" width=500>](https://github.com/anuraghazra/github-readme-stats)
