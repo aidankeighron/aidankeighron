@@ -5,7 +5,7 @@
 <!-- https://readme-typing-svg.demolab.com/demo/?font=museo&weight=100&duration=2000&pause=2000&color=77FB94&vCenter=true&width=600&lines=Always+learning+new+things;%2B4+years+of+development+experiance;Passion+for+robotics+and+software+development;2+years+of+industry+experience !-->
 <img src="https://fakeimg.pl/130x30/ffffff,0/77fb94,255/?text=Personal%20Site&font=museo&font_size=20">
 
-[<img src="https://img.shields.io/badge/Simply%20Complicated-e287fc?style=for-the-badge&logo=windows%20terminal&logoColor=white">](https://aidankeighron.dev/)
+[<img src="https://img.shields.io/badge/Aidan%20Keighron-e287fc?style=for-the-badge&logo=windows%20terminal&logoColor=white">](https://aidankeighron.dev/)
 
 <img src="https://fakeimg.pl/110x30/ffffff,0/77fb94,255/?text=Languages&font=museo&font_size=20">
 
