@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=museo&weight=100&duration=2000&pause=2000&color=77FB94&vCenter=true&width=600&lines=Always+learning+new+things;%2B4+years+of+development+experiance;Passion+for+robotics+and+software+development;2+years+of+industry+experience" alt="Typing SVG" /></a>
-<!-- https://readme-typing-svg.demolab.com/demo/?font=museo&weight=100&duration=2000&pause=2000&color=77FB94&vCenter=true&width=600&lines=Always+learning+new+things;%2B4+years+of+development+experiance;Passion+for+robotics+and+software+development;2+years+of+industry+experience !-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=museo&weight=100&duration=2000&pause=2000&color=77FB94&vCenter=true&width=600&lines=Always+learning+new+things;%2B4+years+of+development+experience;Passion+for+robotics+and+software+development;2+years+of+industry+experience" alt="Typing SVG" /></a>
+<!-- https://readme-typing-svg.demolab.com/demo/?font=museo&weight=100&duration=2000&pause=2000&color=77FB94&vCenter=true&width=600&lines=Always+learning+new+things;%2B4+years+of+development+experience;Passion+for+robotics+and+software+development;2+years+of+industry+experience !-->
 
 [<img src="https://img.shields.io/badge/Personal%20Website-e287fc?style=for-the-badge&logo=windows%20terminal&logoColor=white">](https://aidankeighron.dev/)
 
