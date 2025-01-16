@@ -20,14 +20,10 @@
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
-<img src="https://fakeimg.pl/80x30/ffffff,0/b8edea,255/?text=Projects&font=museo&font_size=20">
-
-[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=productivity&theme=catppuccin_latte&hide_border=true" width=500>](https://github.com/aidankeighron/productivity)
-
-[<img src="https://github-readme-stats-swervyk.vercel.app/api/pin/?username=aidankeighron&repo=sheet-scraper&theme=catppuccin_latte&hide_border=true" width=500>](https://github.com/aidankeighron/sheet-scraper)
-
 <img src="https://fakeimg.pl/45x30/ffffff,0/86d3ff,255/?text=Stats&font=museo&font_size=20">
 
 [<img src="https://github-readme-stats-swervyk.vercel.app/api?username=aidankeighron&theme=catppuccin_latte&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width=500>](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src="https://github-readme-streak-stats-fawn-five.vercel.app/?user=aidankeighron&hide_border=true&theme=catppuccin-latte&mode=weekly" width=500>](https://git.io/streak-stats)
 
 [<img src="https://github-readme-stats-swervyk.vercel.app/api/top-langs/?username=aidankeighron&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&exclude_repo=asana-notes-app,Pwnage2022,NewSwerve,PwnageVision,OffseasonSwerve" width=500>](https://github.com/anuraghazra/github-readme-stats)
