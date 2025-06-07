@@ -22,3 +22,4 @@ jobs:
 
           plugin_lines: yes
           plugin_lines_delay: 30
+          plugin_lines_sections: history
