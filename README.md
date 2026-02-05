@@ -19,9 +19,9 @@
 
 <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
-<h2 align="center"">Stats</h2>
+<h2 align="center">Stats</h2>
 
-<div>
+<div align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats-swervyk.vercel.app/api?username=aidankeighron&theme=catppuccin_latte&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width=500>
 </div>
