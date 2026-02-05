@@ -24,8 +24,6 @@
 <div>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats-swervyk.vercel.app/api?username=aidankeighron&theme=catppuccin_latte&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width=500>
-  <!-- https://git.io/streak-stats -->
-  <img src="https://github-readme-streak-stats-fawn-five.vercel.app/?user=aidankeighron&hide_border=true&theme=catppuccin-latte&mode=weekly" width=500>
 </div>
 
 
